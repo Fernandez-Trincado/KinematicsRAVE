@@ -10,5 +10,7 @@ We present the [....]
 
 
 [2] Simulations
+
+We executed 10^5 orbits using Markov Chain Monte Carlo (MCMC) simulations for XX RAVE stars and XXX, and we have calculated the [...] 
     
 
