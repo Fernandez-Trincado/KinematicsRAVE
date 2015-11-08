@@ -1,22 +1,15 @@
+RAVE stars tidally stripped or ejected from the ω Centauri globular cluster
+============================================================================
+
 The files in this directory should allow one to reproduce the results in http://www.aanda.org.biblioplanets.gate.inist.fr/articles/aa/abs/2015/11/aa26575-15/aa26575-15.html 
 
-Issue A&A
+Published online 		30 October 2015, Issue A&A, Volume 583, November 2015, Article Number  A76 
 
-Volume 583, November 2015 
-
-Article Number 		    A76
-
-Number of page(s) 	 	 10
-
-Section 		Galactic structure, stellar clusters and populations
-
-Published online 		30 October 2015
-
-Title: "RAVE stars tidally stripped or ejected from the ω Centauri globular cluster", Fernandez-Trincado et al. 
+Title: "RAVE stars tidally stripped or ejected from the ω Centauri globular cluster"
 
 Authors: J. G. Fernández-Trincado, A. C. Robin, K. Vieira, E. Moreno, O. Bienaymé, C. Reylé, O. Valenzuela, B. Pichardo, F. Robles-Valdez and A. M. M. Martins
 
-Contact: J. G. Fernández-Trincado, jfernandez@obs-besancon.fr
+Contact: J. G. Fernández-Trincado, jfernandez(at)obs-besancon.fr
 
 Abstract
 
