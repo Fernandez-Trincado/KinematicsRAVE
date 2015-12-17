@@ -1,6 +1,8 @@
 RAVE stars tidally stripped or ejected from the ω Centauri globular cluster
 ============================================================================
 
+http://adsabs.harvard.edu/abs/2015A%26A...583A..76F
+
 The files in this directory should allow one to reproduce the results in http://www.aanda.org.biblioplanets.gate.inist.fr/articles/aa/abs/2015/11/aa26575-15/aa26575-15.html 
 
 Published online 		30 October 2015, Issue A&A, Volume 583, November 2015, Article Number  A76 
@@ -17,4 +19,4 @@ Using six-dimensional phase-space information from the Fourth Data release of th
 
 Acknowledgements. 
 
-J. G. Fernandez-Trincado is currently supported by Centre National d’Etudes Spatiales (CNES) through PhD grant 0101973 and the Région de Franche- Comté and by the French Programme National de Cosmologie et Galaxies (PNCG). This research was supported by the Munich Institute for Astro- and Particle Physics (MIAPP) of the DFG cluster of excellence "Origin and Structure of the Universe". Besan\c{c}on Galaxy model simulations were executed on computers from the UTINAM Institute of the Universit\'e de Franche-Comte, supported by the R\'egion de Franche-Comt\'e and Institut des Sciences de l'Univers (INSU). Monte Carlo simulations were executed on computers from the Instituto de Astronom\'ia-UNAM, M\'exico.
+J. G. Fernandez-Trincado is currently supported by Centre National d’Etudes Spatiales (CNES) through PhD grant 0101973 and the Région de Franche- Comté and by the French Programme National de Cosmologie et Galaxies (PNCG). This research was supported by the Munich Institute for Astro- and Particle Physics (MIAPP) of the DFG cluster of excellence "Origin and Structure of the Universe". Besan\c{c}on Galaxy model simulations were executed on computers from the UTINAM Institute of the Universit\'e de Franche-Comte, supported by the R\'egion de Franche-Comt\'e and Institut des Sciences de l'Univers (INSU). Monte Carlo simulations were executed on computers from the Instituto de Astronom\'ia-UNAM, M\'exico.
